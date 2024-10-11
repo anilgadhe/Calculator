@@ -1,0 +1,19 @@
+.brd{
+    border: solid black 2px;
+    border-radius: 10px;
+    
+    
+}
+
+.btn-orange{
+    background-color: orange;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+/* .last-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
